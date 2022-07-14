@@ -93,4 +93,4 @@
 - Frameworks, Drivers, DBs, WEB, Express, Router, Bibliotecas
 - Nesta camada é feita também a orquestração de todos os outros componentes
 
-_Assistindo vídeo em 37:06_
+_Assistindo vídeo em 1:00:00_
